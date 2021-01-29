@@ -42,4 +42,4 @@ client.on('ready', () => {
     loadReminders()
 });
 
-client.login('NzQ2NTI5MjcxNjM1MjQ3MjM3.X0BpkA.RQg-sfa8EqyxscmSvpE60xcjpVQ');
+client.login([TOKEN]);
